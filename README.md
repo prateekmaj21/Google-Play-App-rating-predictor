@@ -1,2 +1,5 @@
 # Google-Play-App-rating-predictor
-Google Play App rating predictor done as a part of Summer Training 2019.
+
+
+Data used- subset of 10,000 apps on Google Play Store.
+Model used- Random Forest Regressor.
